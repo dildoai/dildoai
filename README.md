@@ -1,4 +1,4 @@
-# Introducing dildo.ai the First ElizaOS Powered Sex Bot: Personalized Pleasure Redefined 🤖
+# DILDO.ai-ElizaOS  🤖
 
 <div align="center">
   <img src="./docs/static/img/dildoai.jpg" alt="Eliza Banner" width="100%" />
