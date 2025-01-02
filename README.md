@@ -6,7 +6,7 @@
 
 <div align="center">
 
- [Website](https://didloai.xyz/) | 📖 [Documentation](https://elizaos.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
+ [Website](https://didloai.xyz/) | 📖 [Documentation](https://elizaos.github.io/eliza/)
 
 </div>
 
