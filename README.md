@@ -30,20 +30,6 @@ Get ready to experience a new era of intimate technology with the groundbreaking
 - 🤖Effortless Satisfaction: Achieve peak pleasure with minimal effort, allowing you to fully immerse yourself in the experience.
 - 🤖Continuous Improvement: Witness your AI sex partner evolve alongside your desires, ensuring a lifetime of ever-increasing satisfaction.
 
-## Video Tutorials
-
-[AI Agent Dev School](https://www.youtube.com/watch?v=ArptLpQiKfI&list=PLx5pnFXdPTRzWla0RaOxALTSTnVq53fKL)
-
-## 🎯 Use Cases
-
-- 🤖 Chatbots
-- 🕵️ Autonomous Agents
-- 📈 Business Process Handling
-- 🎮 Video Game NPCs
-- 🧠 Trading
-
-
-
 ## Contributors
 
 <a href="https://github.com/elizaos/eliza/graphs/contributors">
